@@ -1,6 +1,3 @@
--- Giga Mansion Tycoon Custom Tora-Style GUI (With Anti AFK)
--- Created for PolPaaq / Syrix
-
 if _G.GigaTycoonScriptLoaded then
     _G.GigaTycoonScriptLoaded = false
     task.wait(0.3)
